@@ -1,0 +1,31 @@
+{
+    "id": "403D9AA4",
+    "path": "~/Desktop/pdac/pdac files/Test.Rmd",
+    "project_path": "pdac files/Test.Rmd",
+    "type": "r_markdown",
+    "hash": "3972533782",
+    "contents": "",
+    "dirty": false,
+    "created": 1700765818907.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "rmdVisualMode": "false",
+        "rmdVisualModeLocation": "2:0",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "0",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "17,3",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1700766629,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1700766629200,
+    "read_only": false,
+    "read_only_alternatives": []
+}

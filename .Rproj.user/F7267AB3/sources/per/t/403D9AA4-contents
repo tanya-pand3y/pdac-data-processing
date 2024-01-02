@@ -1,0 +1,18 @@
+```{r}
+
+# Use a relative path if the file is in the same folder as your R script
+tsv_file_path <- "processed-tumour-DSP.tsv"
+
+if (file.exists(tsv_file_path)) {
+  # Read the TSV file into a data frame
+  data_frame <- read.table(tsv_file_path, header = TRUE, sep = "\t", stringsAsFactors = FALSE)
+
+  # Convert the data frame to a flat list
+  flat_list <- unlist(data_frame)
+
+  # Print the flat list
+  print(flat_list)
+} else {
+  cat("Error: File not found. Please check the file path.\n")
+}
+```
